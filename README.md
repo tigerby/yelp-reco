@@ -1,6 +1,6 @@
 # Yelp Recommendation
 
-##Overview
+## Overview
 Yelp에서 고객들의 이용했던 business의 별점(stars rating) 정보를 기반으로 이용자들에게 추천 business를 제공한다  
 
 ### Target Customer
